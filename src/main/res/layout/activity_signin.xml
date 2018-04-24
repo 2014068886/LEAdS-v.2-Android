@@ -82,11 +82,11 @@
             android:layout_marginBottom="20dp"
             android:layout_marginTop="10dp"
             android:background="@drawable/custom_button_dark"
+            android:onClick="gotoRegister"
             android:text="Sign Up here!"
             android:textColor="@color/white"
             android:textSize="15sp"
-            android:textStyle="bold"
-            android:onClick="goToSignUp"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 
