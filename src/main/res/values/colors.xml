@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00000000</color>
+    <color name="nyanza">#EEFEDE</color>
+    <color name="colorPrimaryDark">#44322A</color>
+    <color name="colorAccent">#75744C</color>
+    <color name="mediumSpringBud">#C9DD85</color>
+    <color name="licorice">#160f40</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#81bf55</color>
+    <color name="lightgrey">#b1b8b8</color>
+    <color name="grey">#424949</color>
+    <color name="black">#000000</color>
+    <color name="flesh">#F7F3EE</color>
+
+</resources>
